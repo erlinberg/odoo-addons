@@ -9,5 +9,3 @@ Altinkaya Free Odoo Addons
 * General information can be found on the [Contribute to OCA](https://odoo-community.org/page/Contribute) page.
 * You can access the general rules for adding modules at [OCA Maintainer Tools](https://github.com/OCA/maintainer-tools/blob/master/CONTRIBUTING.md).
 * While developing modules, you can simplify your quality control process using the [quality control tools prepared by OCA](https://github.com/OCA/maintainer-quality-tools).
-
-
