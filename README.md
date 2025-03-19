@@ -2,7 +2,7 @@
 Altinkaya Free Odoo Addons
 
 
-### We Welcome Your Contributions
+### We Welcome Your Contribution
 
 * The project is licensed under the LGPL license. By contributing, you agree to the terms of this license.
 * We aim for the modules and content in our project to meet **OCA quality standards**.
