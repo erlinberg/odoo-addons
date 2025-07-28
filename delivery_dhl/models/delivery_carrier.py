@@ -421,7 +421,7 @@ class DeliveryCarrier(models.Model):
             "content": {
                 "packages": self._prepare_dhl_packing_data(picking),
                 "isCustomsDeclarable": self.dhl_is_customs_declarable,
-                "incoterm": picking.sale_id.incoterm.code,
+                "incoterm": invoice.invoice_incoterm_id.code,
                 "description": self.dhl_general_shipment_description,
                 # DHL requires value to be a multiple of 0.001
                 "declaredValue": round(totalDeclaredValue, 3),
